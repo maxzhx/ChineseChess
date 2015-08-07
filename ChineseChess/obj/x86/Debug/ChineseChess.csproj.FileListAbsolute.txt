@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.exe
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.Form2.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\ChineseChess.csproj.ResolveComReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\ChineseChess\ChineseChess.pdb

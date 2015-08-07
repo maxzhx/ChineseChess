@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\Chess\bin\Debug\Chess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\Chess\bin\Debug\Chess.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\Chess\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\Chess\obj\Debug\Chess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ChineseChess\Chess\obj\Debug\Chess.pdb
